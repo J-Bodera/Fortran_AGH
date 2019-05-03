@@ -10,7 +10,7 @@ Poniżej zamieszczam wyniki przedstawione w postaci graficznej, która zostałą
 ## KIND8
 ![kind8](https://github.com/J-Bodera/Fortran_AGH/blob/master/Task1/res/wykres8.jpg)
 ---
-### KIND16
+## KIND16
 ![kind16](https://github.com/J-Bodera/Fortran_AGH/blob/master/Task1/res/wykres16.jpg)
 ---
 
