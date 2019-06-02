@@ -46,8 +46,10 @@ program main
     close(3)
   
     do i = 1, size(output)
-        if(abs(output(i)) < 50) output(i) = (0.0, 0.0)
-        write(4, *) i, output(i)
+        if(abs(output(i)) < 50) then
+            output(i) = (0.0, 0.0)
+        endif
+        write(4, *) i, abs(output(i))
     end do
     close(4)
 
